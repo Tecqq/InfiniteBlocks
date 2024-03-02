@@ -1,0 +1,5 @@
+name: InfiniteBlocks
+version: 1.0
+main: com.tecana.infiniteblocks.InfiniteBlocks
+commands:
+  infiniteblocks:
