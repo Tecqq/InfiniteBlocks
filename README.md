@@ -1,7 +1,7 @@
 # A free highly configurable 1.8-1.20 spigot plugin allowing you to make blocks infinite for a configurable price.
 
 Configuration:
-```
+```yml
 nopermission: "&6You do not have permission to run this command."
 playernotfound: "&cCould not find specified player."
 helpmessage:
