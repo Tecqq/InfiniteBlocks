@@ -1,6 +1,7 @@
 # A free highly configurable 1.8-1.20 spigot plugin allowing you to make blocks infinite for a configurable price.
 
 Configuration:
+```
 nopermission: "&6You do not have permission to run this command."
 playernotfound: "&cCould not find specified player."
 helpmessage:
@@ -49,3 +50,4 @@ infiniteblocks:
     enchanted: false
 
     # you can create as many blocks as you'd like just paste it here and configure it to your liking
+```
