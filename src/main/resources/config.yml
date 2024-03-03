@@ -8,7 +8,7 @@ helpmessage:
   - "&e/infiniteblocks give (player) (identifier) (amount) &8- &7Give a player an infinite block."
 
 infiniteblocks:
-  obsidian: # the identifier for the item use /infiniteblocks give (player) (identifier) (amount) in this case /infiniteblosk give tecana obsidian 1
+  obsidian: # the identifier for the item use /infiniteblocks give (player) (identifier) (amount) in this case /infiniteblocks give tecana obsidian 1
     displayname: "&5&lObsidian" # the custom displayname for the item
     lore: # the custom lore for the item
       - "&5&lObsidian"
@@ -16,7 +16,7 @@ infiniteblocks:
       - "&5&lObsidian"
     itemmaterial: BEDROCK # the item that is given to the player
     placedmaterial: OBSIDIAN # the item that gets placed
-    cost: 50.0 # the amount to  charge the player upon placement
+    cost: 50.0 # the amount to charge the player upon placement
     message: "&c-$50" # the message to send to the player upon placement
     insufficentfundsmessage: "&4You do not have enough funds to use this"
     enchanted: true
